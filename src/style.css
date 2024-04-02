@@ -1,0 +1,40 @@
+div{
+    background-color: #e9c80a;
+
+    padding: 20px;
+    margin: auto;
+    width: 80%;
+    text-align: center;
+    border-radius: 20px;
+}
+
+form{
+    background-color: black;
+    padding: 10px;
+    border-style: 20px;
+}
+button{
+    border: none;
+    background-color: #ececee;
+    padding: 10px;
+}
+.activeButton{
+    border: 1px solid #363636;
+    background-color: #fa6374;
+    color: rgb(0, 0, 0);
+}
+body{
+    background-color: #363636;
+}
+
+/* QuestionStyle.css */
+.questionCentainer {
+    /* background-color: #f0f0f0; */
+    padding: 20px;
+    margin: 10px 0;
+    border-radius: 5px;
+    text-align: center;
+}
+input[type="radio"] {
+    margin-right: 5px;
+}
